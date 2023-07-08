@@ -45,5 +45,6 @@ Remember to exercise caution when using third-party scripts and ensure that you 
 
 <img width="1238" alt="image" src="https://github.com/DictatorKev/CPU-GPU-Checker/assets/103073906/49914724-b861-4630-9833-177d8a9a1f83">
 
-<img width="1243" alt="image" src="https://github.com/DictatorKev/CPU-GPU-Checker/assets/103073906/bd2f3359-9996-4d90-8391-39f24ed25a43">
+<img width="1279" alt="image" src="https://github.com/DictatorKev/CPU-GPU-Checker/assets/103073906/2e570555-5548-4c22-84f4-e2f03abd69fe">
+
 
